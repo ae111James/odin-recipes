@@ -8,6 +8,11 @@ body {
     text-decoration: none;
 }
 
+.navi2 {
+    list-style-type: none;
+    text-decoration: none;
+}
+
 .lasagne-sec {
     float: left;
     margin-top: 50px;    
@@ -32,4 +37,18 @@ body {
 
 a {
     text-decoration: none;
+}
+
+.spaghetti-sec {
+    float: left;
+}
+
+.spaghetti-sec-pos {
+    width: 1000px;
+    margin-left: 100px;
+}
+
+.spaghetti-side {
+    float: right;
+    width: 1000px;
 }
